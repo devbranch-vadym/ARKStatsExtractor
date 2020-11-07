@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ARK Smart Breeding")]
-[assembly: AssemblyCopyright("Copyright © 2015 – 2019, made by cadon")]
+[assembly: AssemblyCopyright("Copyright © 2015 – 2020, made by cadon")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
